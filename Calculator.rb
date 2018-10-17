@@ -1,4 +1,5 @@
 ﻿answer = "y"
+
 loop do
 
 puts "Enter first number"
