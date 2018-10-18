@@ -43,7 +43,7 @@ puts "Remainder = #{remainder}"
 else
 puts "Invalid Operator"
 end
-		else
+		
 		f = File.new('out.txt','a')
 		print "Enter First Number:"
 		nd_num1= gets.to_i
